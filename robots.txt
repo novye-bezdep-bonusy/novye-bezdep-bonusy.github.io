@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: novye-bezdep-bonusy.github.io
+Sitemap: https://novye-bezdep-bonusy.github.io/sitemap.xml
